@@ -1,4 +1,4 @@
-# CaptionGenerator.py
+
 
 import os
 import pickle
